@@ -15,6 +15,8 @@ This notebook serves as an educational resource and creative outlet. It offers m
 - Detailed documentation to aid your creative process.
 - Alternative implementation in PyTorch (original was in TensorFlow).
 
+![sample image](media/sample_image.jpg)
+
 ## Note on Google Drive
 
 Please note that this notebook includes code that enables Google Drive for downloading images. However, it's worth mentioning that using the temporary runtime directory may not be the most efficient method for saving progress. This can be disabled if running the notebooks locally. See comments in code. 
