@@ -4,12 +4,6 @@
 
 This notebook explores various image generation techniques using VQGAN and CLIP, with the primary goal of fostering creativity and understanding these methods better. Whether you're an artist, a programmer, or just curious, this notebook provides a playground for creating unique and captivating images.
 
-### Author
-
-- **Josh Urban Davis**
-- Website: [https://joshurbandavis.com/](https://joshurbandavis.com/)
-- Twitter: [@joshurbandavis](https://twitter.com/joshurbandavis)
-
 ## Purpose
 
 This notebook serves as an educational resource and creative outlet. It offers methods for generating art and imagery, making it an excellent resource for those interested in art, machine learning, or simply exploring new creative techniques.
