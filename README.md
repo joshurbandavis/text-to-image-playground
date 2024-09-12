@@ -1,4 +1,4 @@
-# Artistic Image Generation with VQGAN and CLIP
+# Image Generation with VQGAN and CLIP
 
 ## Introduction
 
